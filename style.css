@@ -36,7 +36,7 @@ input{
     font-size:20px;
     margin-top:10px;
     width:250px;
-    /* color: #007bff;  */
+    
 }
 input::placeholder {
   color: gray;
@@ -78,21 +78,3 @@ input:hover {
     margin-top: 5px;
     display : none;
 }
-/* button{
-    padding : 10px;
-    border: 2px solid black;
-    margin-top:12px;
-    border-radius: 12px;
-    font-size:15px;
-    font-weight: bold;
-    cursor: pointer;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-    transition: all 0.3s ease;
-    letter-spacing: 1px;
-}
-button:hover {
-    color:white;
-  background-color: rgb(7, 11, 240);
-  transform: scale(1.05);
-  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.25);
-} */
