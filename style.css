@@ -1,0 +1,98 @@
+body{
+    padding : 0;
+    margin : 0;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+  background: linear-gradient(135deg, #f6d365 0%, #fda085 100%);
+   
+  height : 100vh;
+  display: flex;
+   justify-content: center;
+    align-items: center;
+}
+.game-container{
+    width  : 350px;
+    height: 520px;
+    border: 2px solid black;
+    padding : 70px;
+    text-align: center;
+    border-radius: 15px;
+    background-color: rgba(255, 255, 255, 0.9);
+    box-shadow:  0 8px 16px rgba(29, 25, 25, 0.8);
+    
+} 
+img{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+
+
+input{
+    padding: 10px;
+    border : 2px solid black;
+    border-radius : 12px;
+    font-size:20px;
+    margin-top:10px;
+    width:250px;
+    /* color: #007bff;  */
+}
+input::placeholder {
+  color: gray;
+  font-style: italic;
+  font-size: 15px;
+  color: #007bff; 
+}
+input {
+  -moz-appearance: textfield;
+}
+input:hover {
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.8);
+  transition: 6s;
+}
+ .btn-outline-primary {
+  color: #007bff; /* Bootstrap default primary color */
+  border: 2px solid #007bff;
+  padding: 10px 20px;
+  font-weight: bold;
+  font-size: 16px;
+  border-radius: 10px;
+  background-color: transparent;
+  transition: all 0.3s ease;
+  margin-top:12px;
+}
+
+.btn-outline-primary:hover {
+  background-color: #007bff;
+  color: white;
+  box-shadow: 0 5px 15px rgba(0, 123, 255, 0.3);
+  transform: scale(1.05);
+}
+
+.btn-outline-primary:active {
+  transform: scale(0.97);
+  box-shadow: 0 3px 10px rgba(0, 123, 255, 0.2);
+}
+#resetbtn{
+    margin-top: 5px;
+    display : none;
+}
+/* button{
+    padding : 10px;
+    border: 2px solid black;
+    margin-top:12px;
+    border-radius: 12px;
+    font-size:15px;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+    letter-spacing: 1px;
+}
+button:hover {
+    color:white;
+  background-color: rgb(7, 11, 240);
+  transform: scale(1.05);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.25);
+} */

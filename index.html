@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Number Guessing Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="game-container">
+      <img src="https://i.imgur.com/IaUrttj.png" alt="Funny Face" class="funny-img">
+      <h1> Number Guessing Game</h1>
+        <p>Guess the Secret Number(1 to 100)</p>
+        🤓 Let's see if you're a genius! : 
+        <input type="number" id="guessinput" placeholder="Enter your lucky number..." name="num">
+        <button id= "checkbtn"class="checkbtn btn-outline-primary">Check guess</button>
+        
+        <audio id="winSound" src="assests/win.wav"></audio>
+         <audio id="loseSound" src="assests/lose.wav"></audio>
+        <audio id="closeSound" src="assests/close.wav"></audio> 
+      <p id="message">🗣️ Let's start guessing!</p>
+     <p id="attempts">🧠 Attempts Left: 5</p>
+      <button id ="resetbtn" class ="resetbtn btn-outline-primary" style = "display : none;">Try again</button>
+</div>
+    <script src="app.js"></script>
+</body>
+</html>
+         
