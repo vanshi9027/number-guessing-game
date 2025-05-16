@@ -6,7 +6,8 @@ A simple and fun number guessing game built with **HTML, CSS, and JavaScript**. 
 
 ## 🚀 Live Demo
 👉
-[Click here to play the game!](https://vanshi9027.github.io/number-guessing-game/)
+[Watch the Demo Video](https://vanshi9027.github.io/number-guessing-game/assets/demo.mp4)
+
 
 👉 [GitHub Repo](https://github.com/vanshi9027/number-guessing-game)
 
@@ -14,10 +15,10 @@ A simple and fun number guessing game built with **HTML, CSS, and JavaScript**. 
 
 ## 📸 Screenshots
 ### 🎮 Initial UI
-![Initial UI](number-guessing-UI.png)
+![Initial UI](./assests/number-guessing-UI.png)
 
 ### 🏆 Win Screen
-![Win UI](number-guessing-UI.png)
+![Win UI](./assests/number-guessing-UI.png)
 
 ---
 
@@ -50,4 +51,4 @@ This is **Project 1** of my 30-Day JavaScript Mini Project Challenge (May 2025)
 ---
 
 ## 📜 Author
-👨‍💻 [Vanshika Pal](linkedin.com/in/vanshika-pal-86425431a/)
+👨‍💻 [Vanshika Pal](https://linkedin.com/in/vanshika-pal-86425431/)
