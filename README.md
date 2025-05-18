@@ -18,7 +18,7 @@ A simple and fun number guessing game built with **HTML, CSS, and JavaScript**. 
 ![Initial UI](./assests/number-guessing-UI.png)
 
 ### 🏆 Win Screen
-![Win UI](./assests/number-guessing-UI.png)
+![Win UI](./assests/number-guessing-win.png)
 
 ---
 
