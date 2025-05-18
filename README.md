@@ -6,7 +6,7 @@ A simple and fun number guessing game built with **HTML, CSS, and JavaScript**. 
 
 ## 🚀 Live Demo
 👉
-[Watch the Demo Video](https://vanshi9027.github.io/number-guessing-game/assests/demo.mp4)
+[Watch the Demo Video](https://vanshi9027.github.io/number-guessing-game/assests/demo-video.mp4)
 
 
 👉 [GitHub Repo](https://github.com/vanshi9027/number-guessing-game)
