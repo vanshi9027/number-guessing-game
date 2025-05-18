@@ -21,6 +21,10 @@ A simple and fun number guessing game built with **HTML, CSS, and JavaScript**. 
 ![Win UI](./assests/number-guessing-win.png)
 
 ---
+## 🎮 Play the Game
+
+👉 [Click here to play the game!](https://vanshi9027.github.io/number-guessing-game/)
+
 
 ## 💡 Features
 - Generates random number from 1 to 100
@@ -49,6 +53,6 @@ A simple and fun number guessing game built with **HTML, CSS, and JavaScript**. 
 This is **Project 1** of my 30-Day JavaScript Mini Project Challenge (May 2025)
 
 ---
+## 🔗 LinkedIn
 
-## 📜 Author
-👨‍💻 [Vanshika Pal](https://linkedin.com/in/vanshika-pal-86425431/)
+👉 [Vanshika Pal LinkedIn Profile](https://www.linkedin.com/in/vanshika-pal-86425431a/)
